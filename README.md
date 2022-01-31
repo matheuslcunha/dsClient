@@ -1,7 +1,7 @@
 # Ds Client
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodriguesLucas/dsClient/blob/main/LICENSE) 
 
-DsMovie é uma aplicação Backend, desenvolvida para avaliação no decorrer de um Bootcamp Spring, curso realizado pela [DevSuperior](https://learn.devsuperior.com/).
+DsClient é uma aplicação Backend, desenvolvida para avaliação no decorrer de um Bootcamp Spring, curso realizado pela [DevSuperior](https://learn.devsuperior.com/).
 
 A aplicação consiste em um microserviço que é possível criar, alterar, visualizar e excluir um determinado cliente, além de visualizar a lista de clientes cadastrados.
 
