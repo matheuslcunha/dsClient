@@ -4,6 +4,7 @@
 DsMovie é uma aplicação Backend, desenvolvida para avaliação no decorrer de um Bootcamp Spring, curso realizado pela [DevSuperior](https://learn.devsuperior.com/).
 
 A aplicação consiste em um microserviço que é possível criar, alterar, visualizar e excluir um determinado cliente, além de visualizar a lista de clientes cadastrados.
+
 ![Modelo Conceitual](https://github.com/RodriguesLucas/dsClient/blob/main/ASSETS/ModeloConceitual.png)
 
 # Tecnologias utilizadas
